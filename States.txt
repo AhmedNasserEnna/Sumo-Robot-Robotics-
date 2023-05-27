@@ -1,0 +1,21 @@
+1 only backward
+2 only backward
+3 only forward
+4 only forward
+
+1 & 2 only backward
+3 & 4 only forward
+
+2 & 3 only left and forward (rotate 90)
+2 & 3 only rigth and backward (rotate 90) ultrasonic 
+
+1 & 4 only right and forward (rotate 90)
+1 & 4 only left and backward (rotate 90) ultrasonic
+
+1 & 2 & 3 only left and backward (rotate 90)
+1 & 2 & 4 only right and backward (rotate 90)
+1 & 4 & 3 only right and forward (rotate 90)
+2 & 4 & 3 only left and forward (rotate 90)
+
+
+
